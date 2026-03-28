@@ -27,7 +27,7 @@
 
 ### Research Platforms
 
-- [aiXiv](https://github.com/aixiv-org/aiXiv) ![](https://img.shields.io/github/stars/aixiv-org/aiXiv.svg) - Multi-agent preprint server for human, AI and robot scientists with dual-track review and auto-agents ecosystem.
+- [aiXiv](https://www.aixiv.co) ![](https://img.shields.io/github/stars/aixiv-org/aiXiv.svg) - Multi-agent preprint server for human, AI and robot scientists with dual-track review and auto-agents ecosystem.
 
 ## Commercial Platforms
 
