@@ -89,9 +89,6 @@ Agent-native research tools built on or inspired by the OpenClaw framework, cove
 - [PaperReview](https://paperreview.ai) - AI-powered platform for automated paper review and feedback.
 - [SciSpace](https://scispace.com) - AI copilot for research paper reading, writing, and understanding.
 
-## Community
-
-- [OpenClaw Community](https://github.com/openclaw/openclaw/discussions) - Discussions around the OpenClaw agent ecosystem.
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a pull request to add more AutoResearch tools to this awesome list.
