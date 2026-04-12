@@ -86,6 +86,7 @@ Agent-native research tools built on or inspired by the OpenClaw framework, cove
 ### Paper Review & Management
 
 - [IBM Watson Discovery](https://www.ibm.com/cloud/watson-discovery) - Enterprise AI platform for intelligent document understanding and search.
+- [paper2skills](https://paper2skills.com) - AI-powered platform that converts research papers into actionable skills.
 - [PaperReview](https://paperreview.ai) - AI-powered platform for automated paper review and feedback.
 - [SciSpace](https://scispace.com) - AI copilot for research paper reading, writing, and understanding.
 
