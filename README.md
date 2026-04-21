@@ -19,6 +19,7 @@
 - [Curie](https://github.com/Just-Curieous/Curie) ![](https://img.shields.io/github/stars/Just-Curieous/Curie.svg) - AI-agent framework for automated and rigorous scientific experimentation with end-to-end automation from hypothesis formulation to result interpretation.
 - [nano-scientist](https://github.com/AI4Scientist/nano-scientist) ![](https://img.shields.io/github/stars/AI4Scientist/nano-scientist.svg) - Budget-driven autonomous research agent that turns a topic into a technical report with a plan-execute-review loop and PDF output pipeline.
 - [OmniScientist](https://github.com/tsinghua-fib-lab/OmniScientist) ![](https://img.shields.io/github/stars/tsinghua-fib-lab/OmniScientist.svg) - AI Scientist ecosystem covering idea generation, experiment design, and paper writing as a holistic blueprint for autonomous research.
+- [pi-autoresearch](https://github.com/davebcn87/pi-autoresearch) ![](https://img.shields.io/github/stars/davebcn87/pi-autoresearch.svg) - Extension for pi that enables autonomous experiment loops to benchmark ideas, keep improvements, and revert regressions.
 - [Virtual-Scientists](https://github.com/InternScience/Virtual-Scientists) ![](https://img.shields.io/github/stars/InternScience/Virtual-Scientists.svg) - ACL 2025 project featuring many-heads multi-agent scientific idea generation for diverse hypothesis exploration.
 
 ### Deep Research Agents
