@@ -14,10 +14,10 @@
 - [AI-Researcher](https://github.com/HKUDS/AI-Researcher) ![](https://img.shields.io/github/stars/HKUDS/AI-Researcher.svg) - Autonomous scientific innovation system with dedicated research and paper agents for idea generation, experiment execution, and paper writing.
 - [ARIS](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep) ![](https://img.shields.io/github/stars/wanshuiyin/Auto-claude-code-research-in-sleep.svg) - Lightweight Markdown-only research workflow with cross-model review loops, idea discovery, and experiment automation.
 - [auto-research](https://github.com/openags/auto-research) ![](https://img.shields.io/github/stars/openags/auto-research.svg) - Autonomous generalist scientist framework for fully automated research agents from literature reviews to experiments and writing.
-- [autoresearch](https://github.com/karpathy/autoresearch) ![](https://img.shields.io/github/stars/karpathy/autoresearch.svg) - AutoResearch project by karpathy for autonomous research workflows.
+- [autoresearch](https://github.com/karpathy/autoresearch) ![](https://img.shields.io/github/stars/karpathy/autoresearch.svg) - Karpathy’s autonomous overnight research loop where agents iteratively edit/train/evaluate a compact LLM setup under a fixed 5-minute experiment budget.
 - [AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) ![](https://img.shields.io/github/stars/aiming-lab/AutoResearchClaw.svg) - Fully autonomous & self-evolving research from idea to paper using a multi-agent debate pipeline with self-healing and citation verification.
 - [Curie](https://github.com/Just-Curieous/Curie) ![](https://img.shields.io/github/stars/Just-Curieous/Curie.svg) - AI-agent framework for automated and rigorous scientific experimentation with end-to-end automation from hypothesis formulation to result interpretation.
-- [nano-scientist](https://github.com/AI4Scientist/nano-scientist) ![](https://img.shields.io/github/stars/AI4Scientist/nano-scientist.svg) - Lightweight autonomous scientist project from AI4Scientist.
+- [nano-scientist](https://github.com/AI4Scientist/nano-scientist) ![](https://img.shields.io/github/stars/AI4Scientist/nano-scientist.svg) - Budget-driven autonomous research agent that turns a topic into a technical report with a plan-execute-review loop and PDF output pipeline.
 - [OmniScientist](https://github.com/tsinghua-fib-lab/OmniScientist) ![](https://img.shields.io/github/stars/tsinghua-fib-lab/OmniScientist.svg) - AI Scientist ecosystem covering idea generation, experiment design, and paper writing as a holistic blueprint for autonomous research.
 - [Virtual-Scientists](https://github.com/InternScience/Virtual-Scientists) ![](https://img.shields.io/github/stars/InternScience/Virtual-Scientists.svg) - ACL 2025 project featuring many-heads multi-agent scientific idea generation for diverse hypothesis exploration.
 
@@ -36,7 +36,7 @@
 
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills.svg) - Comprehensive collection of 140 ready-to-use scientific skills for Claude across biology, chemistry, medicine, and more.
 - [claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-writer.svg) - AI-powered scientific writing assistant for automated research paper generation and technical documentation.
-- [autoresearch-skill](https://github.com/wjgoarxiv/autoresearch-skill) ![](https://img.shields.io/github/stars/wjgoarxiv/autoresearch-skill.svg) - Skill pack repository for AutoResearch workflows.
+- [autoresearch-skill](https://github.com/wjgoarxiv/autoresearch-skill) ![](https://img.shields.io/github/stars/wjgoarxiv/autoresearch-skill.svg) - Cross-platform LLM skill set (Claude Code/Codex/Gemini) that runs experiment-evaluate-iterate autoresearch loops from natural-language goals.
 - [Researcher](https://github.com/zhu-minjun/Researcher) ![](https://img.shields.io/github/stars/zhu-minjun/Researcher.svg) - AI-powered research assistant for automated research workflows.
 
 ### Research Platforms
