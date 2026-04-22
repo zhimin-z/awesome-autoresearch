@@ -8,6 +8,8 @@
 
 ### End-to-End Research Systems
 
+Autonomous systems that cover the full research lifecycle from ideation through experimentation and paper writing.
+
 - [AI-Scientist](https://github.com/SakanaAI/AI-Scientist) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist.svg) - First comprehensive system for fully automatic scientific discovery, enabling LLMs to autonomously generate ideas, run experiments, and write papers.
 - [AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2) ![](https://img.shields.io/github/stars/SakanaAI/AI-Scientist-v2.svg) - Workshop-level automated scientific discovery via agentic tree search; builds on AI-Scientist with improved experimental control.
 - [AgentLaboratory](https://github.com/SamuelSchmidgall/AgentLaboratory) ![](https://img.shields.io/github/stars/SamuelSchmidgall/AgentLaboratory.svg) - End-to-end autonomous research workflow using LLM agents to assist with literature reviews, experiments, and report writing.
@@ -24,16 +26,22 @@
 
 ### Deep Research Agents
 
+Research-focused agents for iterative retrieval, synthesis, and report generation on complex questions.
+
 - [open_deep_research](https://github.com/langchain-ai/open_deep_research) ![](https://img.shields.io/github/stars/langchain-ai/open_deep_research.svg) - Fully open-source deep research agent with multi-model support, multi-search API, MCP integration, and built-in report generation.
 - [DeepResearch](https://github.com/Alibaba-NLP/DeepResearch) ![](https://img.shields.io/github/stars/Alibaba-NLP/DeepResearch.svg) - Tongyi Deep Research — iterative retrieval-augmented research agent for complex multi-hop questions.
 
 ### Experiment & Data Automation
+
+Tools that automate experiment execution, data workflows, and closed-loop empirical research pipelines.
 
 - [agentic-data-scientist](https://github.com/K-Dense-AI/agentic-data-scientist) ![](https://img.shields.io/github/stars/K-Dense-AI/agentic-data-scientist.svg) - Multi-agent framework for data science workflows with separated planning and execution phases.
 - [autora](https://github.com/autoresearch/autora) ![](https://img.shields.io/github/stars/autoresearch/autora.svg) - Automated research assistant for closed-loop empirical research with autonomous experiment design and data analysis.
 - [Simply](https://github.com/google-deepmind/simply) ![](https://img.shields.io/github/stars/google-deepmind/simply.svg) - Minimal JAX research codebase by Google DeepMind designed for agents to read code, propose ideas, run experiments, and iterate.
 
 ### Scientific Writing & Skills
+
+Frameworks and skill collections that support scientific writing, reasoning, and reusable research capabilities.
 
 - [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-skills.svg) - Comprehensive collection of 140 ready-to-use scientific skills for Claude across biology, chemistry, medicine, and more.
 - [claude-scientific-writer](https://github.com/K-Dense-AI/claude-scientific-writer) ![](https://img.shields.io/github/stars/K-Dense-AI/claude-scientific-writer.svg) - AI-powered scientific writing assistant for automated research paper generation and technical documentation.
@@ -42,13 +50,19 @@
 
 ### Learning & Tutorials
 
+Educational resources for learning autonomous research concepts, tools, and practical workflows.
+
 - [learn-auto-research](https://github.com/AI4Scientist/learn-auto-research) ![](https://img.shields.io/github/stars/AI4Scientist/learn-auto-research.svg) - Educational repository for learning and practicing autonomous research workflows.
 
 ### Research Platforms
 
+Integrated platforms that host AI agents for collaborative research, publishing, and scientific workflows.
+
 - [aiXiv](https://www.aixiv.co) ![](https://img.shields.io/github/stars/aixiv-org/aixiv-core.svg) - Multi-agent preprint server for human, AI and robot scientists with dual-track review and auto-agents ecosystem.
 
 ### Benchmarks & Evaluation
+
+Benchmarks and evaluation suites for measuring capabilities of autonomous research agents across tasks.
 
 - [aira-dojo](https://github.com/facebookresearch/aira-dojo) ![](https://img.shields.io/github/stars/facebookresearch/aira-dojo.svg) - Meta FAIR's extensible AI research agent development and evaluation framework with isolated code execution.
 - [AIRS-Bench](https://github.com/facebookresearch/airs-bench) ![](https://img.shields.io/github/stars/facebookresearch/airs-bench.svg) - Benchmark by Meta FAIR for quantifying end-to-end AI research abilities of LLM agents.
@@ -61,6 +75,8 @@ Agent-native research tools built on or inspired by the OpenClaw framework, cove
 
 ### Research Platforms & IDEs
 
+OpenClaw-based platforms and IDE experiences for end-to-end scientific workflows and agent orchestration.
+
 - [Dr. Claw](https://github.com/OpenLAIR/dr-claw) ![](https://img.shields.io/github/stars/OpenLAIR/dr-claw.svg) - AI research IDE with 100+ skills, structured dashboard (Survey → Ideation → Experiment → Publication), auto-research one-click execution, and multi-agent support.
 - [openclaw-agents](https://github.com/shenhao-stu/openclaw-agents) ![](https://img.shields.io/github/stars/shenhao-stu/openclaw-agents.svg) - One-command setup for 9 specialized research agents with Paper Pipeline, Brainstorm, Daily Digest, and Rebuttal workflows built in.
 - [PaperClaw](https://github.com/guhaohao0991/PaperClaw) ![](https://img.shields.io/github/stars/guhaohao0991/PaperClaw.svg) - OpenClaw skill for generating topic-specific expert agents for paper search, review, and critique workflows.
@@ -72,6 +88,8 @@ Agent-native research tools built on or inspired by the OpenClaw framework, cove
 
 ### Skill Libraries & Extensions
 
+Reusable OpenClaw skill ecosystems for domain expertise, automation, and tool augmentation.
+
 - [LabClaw](https://github.com/wu-yc/LabClaw) ![](https://img.shields.io/github/stars/wu-yc/LabClaw.svg) - 240 OpenClaw skills for biology, pharmacology, medicine, literature, and visualization.
 - [OpenClaw-Medical-Skills](https://github.com/FreedomIntelligence/OpenClaw-Medical-Skills) ![](https://img.shields.io/github/stars/FreedomIntelligence/OpenClaw-Medical-Skills.svg) - 869 medical/biomedical skills spanning clinical, genomics, and drug discovery domains.
 - [SkillNet](https://github.com/zjunlp/SkillNet) ![](https://img.shields.io/github/stars/zjunlp/SkillNet.svg) - Skill creation, evaluation, connection, and discovery infrastructure that searches 300k+ community skills.
@@ -80,6 +98,8 @@ Agent-native research tools built on or inspired by the OpenClaw framework, cove
 
 ### Full Research Automation
 
+Commercial systems focused on autonomous end-to-end scientific research execution and acceleration.
+
 - [Analemma](https://analemma.ai/fars) - Fully autonomous research system for end-to-end scientific research automation.
 - [DeepScientist](http://deepscientist.cc) - AI platform for accelerating scientific research and discovery.
 - [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist for end-to-end research automation.
@@ -87,12 +107,16 @@ Agent-native research tools built on or inspired by the OpenClaw framework, cove
 
 ### Literature Discovery & Search
 
+Commercial tools for discovering, searching, and synthesizing scientific literature at scale.
+
 - [AI Researcher](https://ai-researcher.net) - AI-powered research assistant for literature review and research synthesis.
 - [AiraXiv](https://airaxiv.com) - AI research platform for automated paper discovery and analysis.
 - [Consensus](https://consensus.app) - AI search engine that finds and summarizes scientific research papers.
 - [Elicit](https://elicit.org) - AI research assistant that automates literature review workflows.
 
 ### Paper Review & Management
+
+Commercial platforms for paper understanding, review workflows, and research knowledge management.
 
 - [IBM Watson Discovery](https://www.ibm.com/cloud/watson-discovery) - Enterprise AI platform for intelligent document understanding and search.
 - [paper2skills](https://paper2skills.com) - AI-powered platform that converts research papers into actionable skills.
