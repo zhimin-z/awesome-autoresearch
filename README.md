@@ -83,6 +83,7 @@ Agent-native research tools built on or inspired by the OpenClaw framework, cove
 - [Analemma](https://analemma.ai/fars) - Fully autonomous research system for end-to-end scientific research automation.
 - [DeepScientist](http://deepscientist.cc) - AI platform for accelerating scientific research and discovery.
 - [Edison Scientific](https://edisonscientific.com) - Autonomous AI scientist for end-to-end research automation.
+- [FutureHouse](https://www.futurehouse.org) - AI platform building autonomous systems to accelerate scientific discovery.
 
 ### Literature Discovery & Search
 
